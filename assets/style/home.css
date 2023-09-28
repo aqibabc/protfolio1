@@ -1,0 +1,47 @@
+#home{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#home .box{
+    width: 80%;
+   text-align: center;
+   color: white;
+}
+#home .box h1{
+    font-size: 100px;
+}
+#home{
+  background-image:linear-gradient(rgba(0, 0, 0, 0.01), rgba(0, 0, 0, 1)), url(../images/HOME-IMG.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    background-attachment: fixed;
+    min-height: 70vh;
+    z-index: -1;
+  }
+  
+  #home  h1 {
+    font-size: 36px;
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  #typing-text {
+    font-size: 24px;
+    font-weight: bold;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  
+ 
+ 
+  
+  
+  
+
+  
+  
+  
+  
